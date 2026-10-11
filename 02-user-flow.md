@@ -17,9 +17,8 @@ This document visualizes the player journey and progression logic during the fir
   * *If Milestone Not Reached:* Return to Main Gameplay loop.
 
 ---
-
 ## 2. Key Considerations
 
 * *Trigger Point:* The progress indicator appears only after the first meaningful action to prevent cognitive overload.
-* *Friction Check:* Optional non-intrusive hints prevent early churn when players hesitate.
-* *Goal:* Maximize Day 1 activation while keeping session friction low.
+* *Friction Check:* Offer an optional, non-intrusive hint when a player appears to struggle, helping them continue without interrupting gameplay.
+* *Goal:* Help new players understand their next goal and recognize early progress, while keeping first-session friction low.
